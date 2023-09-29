@@ -138,7 +138,7 @@ class SpringappApplicationTests {
 
     public void controllerfolder() {
 
-        String directoryPath = "src/main/java/com/examly/springapp/iamneo.ai.com.controller"; // Replace with the path to your directory
+        String directoryPath = "src/main/java/com/examly/springapp/controller"; // Replace with the path to your directory
 
         File directory = new File(directoryPath);
 
